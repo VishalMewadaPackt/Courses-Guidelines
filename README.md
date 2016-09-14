@@ -29,12 +29,12 @@ This repository contains guidelines for Courses.
 
 | Correct | Incorrect |
 | --------- | ------- |
-| Python**:** Real-World-Data-Science | Python-Real-World-Data-Science |
-| AngularJ**S_M**aintainin**gWebA**pplications | AngularJS-Maintaining-Web-Applications |
-| React-**b**uilding-**w**eb-**a**pplications | React-Building-Web-Applications |
-| C**#**-Game-Development | CSharp-Game-Development |
-| C**++**-Application-Development | CPlusPlus-Application-Development |
-| Unity **5.x**-Building-Games | Unity-5x-Building-Games |
+| Python**:** Real World Data Science | Python-Real-World-Data-Science |
+| AngularJS Maintaining Web Applications | AngularJS-Maintaining-Web-Applications |
+| React Building Web Applications | React-**b**uilding-**w**eb-**a**pplications |
+| C**#** Game Development | CSharp-Game-Development |
+| C**++** Application Development | CPlusPlus-Application-Development |
+| Unity **5.x** Building Games | Unity-5x-Building-Games |
 
 Please add following line after Course Heading.
 
