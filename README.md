@@ -45,8 +45,15 @@ Then add **What you need for this book** section with heading 2 `##`
 You will get content for this from CDE of Course and add the content as follows:
 * Content 1
 * Content 2
-* Content 3
-  * Content 3
+* Content 3:
+  * Sub Content 1
+  * Sub Content 2
+    * Sub Content 1
+    * Sub Content 2
+    * Sub Content 3
+  * Sub Content 3
+* Content 1
+ 
 
 Example: 
 *	Share C# code across platforms and call native Objective-C or Java libraries from C#
