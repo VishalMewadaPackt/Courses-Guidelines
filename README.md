@@ -46,12 +46,12 @@ You will get content for this from CDE of Course and add the content as follows:
 * Content 1
 * Content 2
 * Content 3
-* * Content 3
+  * Content 3
 
 Example: 
 *	Share C# code across platforms and call native Objective-C or Java libraries from C#
 *	Submit your app to the Apple App Store and Google Play
 *	Use the out-of-the-box services to support third-party libraries
 *	Find out how to get feedback while your application is used by your users
-*	Create shared data access using a local SQLite database and a REST service
+  *	Create shared data access using a local SQLite database and a REST service
 *	Test and monitor your applications
